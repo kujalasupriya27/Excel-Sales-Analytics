@@ -5,7 +5,7 @@
 
     **1.** Create a _[customer sales market performance report](https://github.com/kujalasupriya27/Excel-Sales-Analytics/blob/d8df593221839c0f2d27d9eef4888ed8b0a7c4b0/Customer%20Sales%20market%20perfomance%20report.pdf)_ 
 
-    **2.** Conduct a comprehensive comparison between _[market performance and sales targets] (https://github.com/kujalasupriya27/Excel-Sales-Analytics/blob/d8df593221839c0f2d27d9eef4888ed8b0a7c4b0/Market%20perfomance%20report.pdf)_
+    **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/kujalasupriya27/Excel-Sales-Analytics/blob/d8df593221839c0f2d27d9eef4888ed8b0a7c4b0/Market%20perfomance%20report.pdf)_
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
@@ -18,7 +18,7 @@
 
 - **Project objective:** 
 
-    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year],[Month] (https://github.com/kujalasupriya27/Excel-Sales-Analytics/blob/d8df593221839c0f2d27d9eef4888ed8b0a7c4b0/Profit%20and%20loss%20by%20fiscal%20year.pdf)_
+    **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year],[Month](https://github.com/kujalasupriya27/Excel-Sales-Analytics/blob/d8df593221839c0f2d27d9eef4888ed8b0a7c4b0/Profit%20and%20loss%20by%20fiscal%20year.pdf)_
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
